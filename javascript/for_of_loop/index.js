@@ -3,7 +3,7 @@ const zeforge = [
     'developers',
     'community'
   ];
-  for (let naziv of sviFajlovi) {
+  for (let naziv of zeforge) {
     console.log(naziv);
   }
   
